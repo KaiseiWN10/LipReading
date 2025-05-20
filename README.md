@@ -1,6 +1,6 @@
 # PyTorch - LipReading Program
 
-Computer Vision Program - Aimed to develope a deep learning-based model for visual speech recognition using PyTorch.
+Computer Vision Program - Aimed to develop a deep learning-based model for visual speech recognition using PyTorch.
 
 Still in development.
 
